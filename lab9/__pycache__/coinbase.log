@@ -1,0 +1,13 @@
+2024-05-20 19:07:37,739 - __main__ - INFO - Retrieved available products
+2024-05-20 19:07:38,357 - __main__ - INFO - Retrieved data for BTC-USD - 2024-05-13 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:39,044 - __main__ - INFO - Retrieved data for BTC-USD - 2024-02-20 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:39,665 - __main__ - ERROR - Failed to retrieve data for BTC-USD - 2023-05-21 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:40,403 - __main__ - INFO - Retrieved data for ETH-USD - 2024-05-13 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:41,064 - __main__ - INFO - Retrieved data for ETH-USD - 2024-02-20 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:41,751 - __main__ - ERROR - Failed to retrieve data for ETH-USD - 2023-05-21 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:42,444 - __main__ - INFO - Retrieved data for XRP-USD - 2024-05-13 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:43,083 - __main__ - INFO - Retrieved data for XRP-USD - 2024-02-20 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:43,872 - __main__ - ERROR - Failed to retrieve data for XRP-USD - 2023-05-21 19:07:37.746294 to 2024-05-20 19:07:37.746294
+2024-05-20 19:07:52,016 - Coinbase - INFO - Retrieved available products
+2024-05-20 19:07:54,147 - Coinbase - INFO - Retrieved data for BTC-USD - 2024-01-01 to 2024-01-02
+2024-05-20 19:07:54,844 - Coinbase - ERROR - Failed to retrieve data for INVALID-PRODUCT - 2024-01-01 to 2024-01-02

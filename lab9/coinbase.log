@@ -1,0 +1,3 @@
+2024-05-21 11:25:49,879 - Coinbase - INFO - Retrieved available products
+2024-05-21 11:25:50,407 - Coinbase - INFO - Retrieved data for BTC-USD - 2024-01-01 to 2024-01-02
+2024-05-21 11:25:51,048 - Coinbase - ERROR - Failed to retrieve data for INVALID-PRODUCT - 2024-01-01 to 2024-01-02
